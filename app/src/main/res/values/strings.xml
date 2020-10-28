@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FormularioContactos</string>
+    <string name="Confirmardatos">Confirmar Datos</string>
+    <string name="nombre">Lorena Hernandez Lopez</string>
+    <string name="fechanac">12/12/1987</string>
+    <string name="telefono">55553333</string>
+    <string name="email">lorena@gmail.com</string>
+    <string name="descripcion">Conocì a Lorena en el Restaurante de comida italiana</string>
+    <string name="textfecha">Fecha de Nacimiento: </string>
+    <string name="texttelefono">Tel: </string>
+    <string name="textemail">Email: </string>
+    <string name="textdescripciom">Descrpciòn: </string>
+    <string name="pnombre">Nombre completo</string>
+    <string name="pfechanac">Fecha de Nacimiento</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="pdescripcion">Descrpcion contacto</string>
+    <string name="boton">Siguiente</string>
+    <string name="boton2">Editar Datos</string>
+</resources>
